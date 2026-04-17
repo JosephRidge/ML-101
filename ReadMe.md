@@ -1,4 +1,4 @@
-![alt text](screenshots/image.png)
+![alt text](screenshots/image1.png)
 
 ![alt text](screenshots/image2.png)
 
@@ -10,17 +10,21 @@ To run a streamlit application:
     - run `streamlit run intro-streamlit.py` - kindly note: `intro-streamlit.py` is the name of my python file
 
 
-### **Machine Learning 101**
-![alt text](image.png)
+## **Machine Learning 101**
+![alt text](screenshots/image.png)
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
-![alt text](image-3.png)
+![alt text](screenshots/image-3.png)
 
-![alt text](image-4.png)
+![alt text](screenshots/image-4.png)
 
-![alt text](image-5.png)
+![alt text](screenshots/image-5.png)
 
-![alt text](image-6.png)
+![alt text](screenshots/image-6.png)
+
+#### **Simple Recap Session**
+
+![alt text](screenshots/image-7.png)
