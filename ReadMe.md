@@ -28,3 +28,8 @@ To run a streamlit application:
 #### **Simple Recap Session**
 
 ![alt text](screenshots/image-7.png)
+
+
+#### **Decision Trees**
+
+![alt text](image.png)
