@@ -33,3 +33,7 @@ To run a streamlit application:
 #### **Decision Trees**
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
