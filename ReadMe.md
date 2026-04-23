@@ -29,6 +29,8 @@ To run a streamlit application:
 
 ![alt text](screenshots/image-7.png)
 
+#### **Linear Regression**
+![alt text](image-6.png) 
 
 #### **Decision Trees**
 
@@ -38,5 +40,9 @@ To run a streamlit application:
 
 ![alt text ](image-3.png)
 ![alt text](image-4.png)
+
+#### **Decision Tree Regressor**
+![alt text](image-5.png)
+
 
 ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
