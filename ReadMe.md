@@ -44,5 +44,5 @@ To run a streamlit application:
 #### **Decision Tree Regressor**
 ![alt text](image-5.png)
 
-
+![alt text](image-7.png)
 ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
