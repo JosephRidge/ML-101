@@ -32,6 +32,9 @@ To run a streamlit application:
 #### **Linear Regression**
 ![alt text](image-6.png) 
 
+#### **Logistic Regression:**
+![alt text](image-8.png)
+
 #### **Decision Trees**
 
 ![alt text](image.png)
