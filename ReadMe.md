@@ -52,3 +52,12 @@ ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/gener
 
 
 ![alt text](image-7.png)
+
+
+## KNN
+
+![alt text](image-9.png)
+
+[KNN NotebookLM](https://notebooklm.google.com/notebook/1decf64f-4c8f-46d6-b1fe-b57f23724b13)
+
+[KNN Current research( last 5 year)](https://elicit.com/find-papers/f35ada20-6481-436a-98fc-b24440c04ac3)
