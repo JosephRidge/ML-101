@@ -61,3 +61,11 @@ ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/gener
 [KNN NotebookLM](https://notebooklm.google.com/notebook/1decf64f-4c8f-46d6-b1fe-b57f23724b13)
 
 [KNN Current research( last 5 year)](https://elicit.com/find-papers/f35ada20-6481-436a-98fc-b24440c04ac3)
+
+# Un-supervised ML
+
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
